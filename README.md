@@ -21,7 +21,7 @@ API para gerenciamento de filmes desenvolvida com Node.js, Express e TypeScript.
 
 1. Clone o repositório
 ```bash
-git clone
+git clone git@github.com:Pedro-Chaves/api_restful_ts.git
 ```
 
 2. Instale as dependências
